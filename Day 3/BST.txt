@@ -1,1 +1,1 @@
-Morris traversal on BST.
+Morris traversal on BST. It's there in Cormen
