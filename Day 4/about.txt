@@ -1,1 +1,2 @@
 SUPERB BST
+A kind of a splay tree implementation.
