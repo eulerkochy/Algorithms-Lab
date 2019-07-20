@@ -85,5 +85,6 @@ int main()
         
         for (int i=1;i<=n;i++)
                 cout<<"Component "<<i<<": "<<ans[i]<<"\n";
+        return 0;
         
 }
